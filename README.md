@@ -65,32 +65,6 @@ uv	Python project and dependency management
 Swagger UI	Interactive API exploration
 
 
-Project structure
-The tree below represents the intended organization. Keep it aligned with the files in your local checkout if you have named or organized modules differently.
-customer_support/
-├── app/
-│   ├── main.py
-│   ├── schema.py
-│   ├── routes/
-│   │   └── tickets.py
-│   ├── services/
-│   │   ├── ticket_service.py
-│   │   ├── ticket_repository.py
-│   │   ├── document_service.py
-│   │   ├── rag_service.py
-│   │   └── tools_service.py
-│   └── docs/
-│       └── data/
-│           └── support_policy.txt
-├── data/
-│   ├── chroma_db/             # Generated vector-store data
-│   └── support_tickets.db     # Generated SQLite database
-├── .env                       # Local secrets; do not commit
-├── .env.example               # Safe environment-variable template
-├── .gitignore
-├── pyproject.toml
-├── uv.lock
-└── README.md
 Generated database/vector-store files may be created only after you run the application or initialize the RAG pipeline.
 Prerequisites
 Install the following before running the project:
