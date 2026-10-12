@@ -1,0 +1,28 @@
+
+CUSTOMER SUPPORT POLICY
+
+1. Refund Policy
+Customers can request a refund for eligible orders within 7 days
+of delivery. The order must meet the company's refund conditions.
+Refund eligibility must be verified before approval.
+
+2. Delivery Policy
+Standard delivery usually takes 3 to 5 business days.
+If an order has not arrived after the expected delivery window,
+the support team should check the tracking information.
+
+3. Payment Policy
+If a customer is charged but the order is not confirmed,
+the support team must verify the payment transaction and order status.
+A refund must not be promised until the transaction is investigated.
+
+4. Account Policy
+Customers who cannot access their account should use the
+password-reset process. If that fails, the support team should
+verify the customer's identity before further assistance.
+
+5. Technical Support Policy
+Customers experiencing application errors should provide the
+error message, device information, and steps to reproduce the issue.
+The support team should investigate reproducible technical problems.
+    
